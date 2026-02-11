@@ -1,9 +1,6 @@
 ### Nguyen Khoi Nguyen (Alan)
 
-ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution, and production-grade AI software.
-
-- LinkedIn: [linkedin.com/in/nguyendesu](https://linkedin.com/in/nguyendesu)
-- GitHub: [github.com/alanknguyen](https://github.com/alanknguyen)
+ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution, and Embedded Systems. 
 
 ---
 
