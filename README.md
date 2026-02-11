@@ -1,4 +1,4 @@
-# Nguyen Khoi Nguyen (Alan)
+@## Nguyen Khoi Nguyen (Alan)
 
 ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution, and production-grade AI software.
 
@@ -8,7 +8,7 @@ ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution,
 
 ---
 
-## What I do
+### What I do
 
 I design and deploy technical systems across **robotics**, **machine learning**, and **MLOps/full-stack platforms**.
 
@@ -29,7 +29,7 @@ I design and deploy technical systems across **robotics**, **machine learning**,
 
 ---
 
-## Current interests
+### Current interests
 
 - Embodied AI for manipulation (VLM/VLA + ROS2 + closed-loop control)
 - Robust task and motion planning (TAMP) in real-world settings
@@ -39,7 +39,7 @@ I design and deploy technical systems across **robotics**, **machine learning**,
 
 ---
 
-## Technical stack
+### Technical stack
 
 **Languages**  
 Python, C++14/17, JavaScript, SQL, MATLAB, Wolfram
@@ -58,7 +58,7 @@ React, Node.js/Express, REST APIs, PostgreSQL, Redis, AWS, Render
 
 ---
 
-## Selected work
+### Selected work
 
 - **Embodied AI Researcher** — BU Dependable Computing Lab (DCL) & RASTIC  
   VLM/VLA inference-to-execution pipelines, real Sawyer experiments, perception + planning integration.
@@ -71,13 +71,13 @@ React, Node.js/Express, REST APIs, PostgreSQL, Redis, AWS, Render
 
 ---
 
-## Education
+### Education
 
 - **M.S. in Electrical & Computer Engineering (Systems Robotics)** — Boston University (Starting Sept 2026)
 - **B.A. in Physics & Computer Science (Dual Major)** — Boston University (Dec 2025)
 
 ---
 
-## Contact
+### Contact
 
 If you are working on embodied AI, robotics systems, VLM/VLA planning, or production ML platforms, feel free to connect.
