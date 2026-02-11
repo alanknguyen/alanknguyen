@@ -1,83 +1,54 @@
 # Nguyen Khoi Nguyen (Alan)
 
-ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution, and production-grade AI software.
+Embodied AI / Robotics engineer building reliable VLM/VLA-to-robot systems and production AI software.
 
-- LinkedIn: [linkedin.com/in/nguyendesu](https://linkedin.com/in/nguyendesu)
-- GitHub: [github.com/alanknguyen](https://github.com/alanknguyen)
-- Product: [greenmetric.ai](https://greenmetric.ai)
+[LinkedIn](https://linkedin.com/in/nguyendesu) · [GitHub](https://github.com/alanknguyen) · [GreenMetric.ai](https://greenmetric.ai)
 
----
+## Profile
 
-## What I do
+I work at the intersection of robotics, machine learning, and systems engineering:
+- Language-conditioned manipulation on real robots (Sawyer, ROS2)
+- Perception pipelines (RGB-D, open-vocabulary segmentation, pose estimation)
+- AI platform engineering (API services, deployment, monitoring, CI/CD)
+- Applied ML for scientific and real-world production environments
 
-I design and deploy technical systems across **robotics**, **machine learning**, and **MLOps/full-stack platforms**.
+## Core Technical Areas
 
-### Robotics + Embodied AI
-- Build end-to-end language-conditioned manipulation pipelines for real robots (7-DoF Sawyer).
-- Translate VLM/VLA outputs into hierarchical, parameterized ROS2 action execution.
-- Develop perception pipelines with RGB-D point clouds, open-vocabulary segmentation, 6-DoF pose estimation, and scene graph construction.
-- Validate policies in simulation (Isaac Sim) with sim-to-real transfer workflows, including domain randomization and contact modeling.
+- **Embodied AI**: VLM/VLA planning, task decomposition, closed-loop execution
+- **Robotics Systems**: ROS/ROS2, MoveIt2, Gazebo/Isaac Sim, sim-to-real workflows
+- **ML Engineering**: PyTorch, classical ML, evaluation pipelines, inference services
+- **Full-Stack + Infra**: React, Node/Express, PostgreSQL, Redis, Docker, AWS/Render
 
-### AI Systems + MLOps
-- Build and operate production AI services (frontend, backend APIs, auth, data, monitoring, deployment).
-- Implement hybrid inference stacks combining deterministic computation with ML/LLM-assisted extraction and reasoning.
-- Maintain release pipelines with regression checks, versioning, observability, and controlled rollouts.
+## Tech Stack
 
-### Applied ML / Scientific Computing
-- Work across Python, C++, and MATLAB for modeling, verification, and evaluation.
-- Experience with computational-physics-oriented AI training/evaluation workflows (FEM/FDTD/BPM contexts).
+**Languages:** Python, C++, JavaScript, SQL, MATLAB  
+**ML/DL:** PyTorch, scikit-learn, Hugging Face, NumPy, SciPy  
+**Robotics:** ROS/ROS2, MoveIt2, OpenCV, Gazebo, MuJoCo, Isaac Sim  
+**Infrastructure:** Docker, Git, CI/CD, observability, automated testing
 
----
+## Current Interests
 
-## Current interests
+- Robust VLM/VLA manipulation under real-world uncertainty
+- Planning + recovery for long-horizon robot tasks
+- Benchmarking and evaluation for embodied AI systems
+- Production-grade AI products with measurable impact
 
-- Embodied AI for manipulation (VLM/VLA + ROS2 + closed-loop control)
-- Robust task and motion planning (TAMP) in real-world settings
-- Simulation-to-real evaluation and failure-recovery protocols
-- Production AI engineering and reliable deployment
-- Applied AI for environmental analytics and sustainability software
+## Selected Work
 
----
+- **Embodied AI Researcher** — BU Dependable Computing Lab  
+  Built VLM/VLA-to-execution pipelines for real robotic manipulation.
 
-## Technical stack
+- **Founder / Engineer** — GreenMetric.ai  
+  Developed and deployed an AI-powered environmental impact analysis platform.
 
-**Languages**  
-Python, C++14/17, JavaScript, SQL, MATLAB, Wolfram
-
-**ML/DL**  
-PyTorch, scikit-learn, Hugging Face Transformers, NumPy, SciPy, Matplotlib, SymPy
-
-**Robotics**  
-ROS/ROS2, Gazebo, MuJoCo, Isaac Sim, OpenCV, MoveIt2
-
-**MLOps / Infra**  
-Docker, Git, CI/CD, model/pipeline validation, experiment logging
-
-**Full-Stack**  
-React, Node.js/Express, REST APIs, PostgreSQL, Redis, AWS, Render
-
----
-
-## Selected work
-
-- **Embodied AI Researcher** — BU Dependable Computing Lab (DCL) & RASTIC  
-  VLM/VLA inference-to-execution pipelines, real Sawyer experiments, perception + planning integration.
-
-- **Founder / Full-Stack Engineer** — GreenMetric.ai  
-  Deployed SaaS platform with hybrid AI + deterministic environmental-impact engine and production MLOps workflows.
-
-- **Graduate Teaching Assistant** — BU College of Engineering (EC574/EC575)  
-  Semiconductor physics/devices recitations, simulation-oriented technical instruction in Python/MATLAB.
-
----
+- **Graduate Teaching Assistant** — BU College of Engineering  
+  Led semiconductor-device discussions with computational modeling workflows.
 
 ## Education
 
-- **M.S. in Electrical & Computer Engineering (Systems Robotics)** — Boston University (Starting Sept 2026)
-- **B.A. in Physics & Computer Science (Dual Major)** — Boston University (Dec 2025)
-
----
+- **M.S., Electrical & Computer Engineering (Systems Robotics)** — Boston University (starting 2026)  
+- **B.A., Physics & Computer Science** — Boston University
 
 ## Contact
 
-If you are working on embodied AI, robotics systems, VLM/VLA planning, or production ML platforms, feel free to connect.
+Open to collaboration in embodied AI, robotics, and production ML systems.
