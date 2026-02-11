@@ -4,7 +4,6 @@ ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution,
 
 - LinkedIn: [linkedin.com/in/nguyendesu](https://linkedin.com/in/nguyendesu)
 - GitHub: [github.com/alanknguyen](https://github.com/alanknguyen)
-- Product: [greenmetric.ai](https://greenmetric.ai)
 
 ---
 
