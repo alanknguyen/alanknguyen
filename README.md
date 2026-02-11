@@ -1,64 +1,83 @@
 # Nguyen Khoi Nguyen (Alan)
 
-Embodied AI and Robotics engineer building reliable VLM/VLA-to-robot systems and production AI software.
+ML/Robotics Engineer focused on embodied AI systems, VLM/VLA-to-robot execution, and production-grade AI software.
 
-<p>
-  <a href="https://linkedin.com/in/nguyendesu" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" title="LinkedIn" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/alanknguyen" target="_blank" rel="noreferrer">
-    <img alt="GitHub" title="GitHub" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-  </a>
-  &nbsp;
-  <a href="https://greenmetric.ai" target="_blank" rel="noreferrer"><strong>GreenMetric.ai</strong></a>
-</p>
+- LinkedIn: [linkedin.com/in/nguyendesu](https://linkedin.com/in/nguyendesu)
+- GitHub: [github.com/alanknguyen](https://github.com/alanknguyen)
+- Product: [greenmetric.ai](https://greenmetric.ai)
 
-## What I can do
+---
 
-- Build language-conditioned manipulation pipelines on real robots (Sawyer, ROS2).
-- Integrate perception stacks: RGB-D, open-vocabulary segmentation, pose estimation, scene representations.
-- Convert VLM/VLA outputs into robust, executable control/action layers.
-- Develop and deploy production AI systems (APIs, auth, monitoring, CI/CD, cloud deployment).
-- Build applied ML pipelines for scientific and engineering workflows.
+## What I do
 
-## Interested in
+I design and deploy technical systems across **robotics**, **machine learning**, and **MLOps/full-stack platforms**.
 
-- Embodied AI for long-horizon manipulation
-- Planning and recovery under real-world uncertainty
-- Sim-to-real transfer and evaluation benchmarks
-- AI systems engineering with measurable product impact
-- Sustainability software and environmental intelligence platforms
+### Robotics + Embodied AI
+- Build end-to-end language-conditioned manipulation pipelines for real robots (7-DoF Sawyer).
+- Translate VLM/VLA outputs into hierarchical, parameterized ROS2 action execution.
+- Develop perception pipelines with RGB-D point clouds, open-vocabulary segmentation, 6-DoF pose estimation, and scene graph construction.
+- Validate policies in simulation (Isaac Sim) with sim-to-real transfer workflows, including domain randomization and contact modeling.
 
-## Tech stack
+### AI Systems + MLOps
+- Build and operate production AI services (frontend, backend APIs, auth, data, monitoring, deployment).
+- Implement hybrid inference stacks combining deterministic computation with ML/LLM-assisted extraction and reasoning.
+- Maintain release pipelines with regression checks, versioning, observability, and controlled rollouts.
 
-<p>
-  <img alt="Python" title="Python" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-  &nbsp;
-  <img alt="C++" title="C++" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-  &nbsp;
-  <img alt="JavaScript" title="JavaScript" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
-  &nbsp;
-  <img alt="TypeScript" title="TypeScript" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
-  &nbsp;
-  <img alt="PyTorch" title="PyTorch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />
-  &nbsp;
-  <img alt="React" title="React" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
-  &nbsp;
-  <img alt="Docker" title="Docker" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
-  &nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
-  &nbsp;
-  <img alt="Redis" title="Redis" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redis.svg" />
-  &nbsp;
-  <img alt="Git" title="Git" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-  &nbsp;
-  <img alt="Linux" title="Linux" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />
-</p>
+### Applied ML / Scientific Computing
+- Work across Python, C++, and MATLAB for modeling, verification, and evaluation.
+- Experience with computational-physics-oriented AI training/evaluation workflows (FEM/FDTD/BPM contexts).
 
-### Tools and domains
+---
 
-- **Robotics:** ROS/ROS2, MoveIt2, Gazebo, Isaac Sim, OpenCV  
-- **ML:** PyTorch, scikit-learn, Transformers, NumPy/SciPy  
-- **Infra:** Docker, GitHub Actions, PostgreSQL, Redis, cloud deployment  
-- **Focus:** Embodied AI, robot planning, perception-to-action systems
+## Current interests
+
+- Embodied AI for manipulation (VLM/VLA + ROS2 + closed-loop control)
+- Robust task and motion planning (TAMP) in real-world settings
+- Simulation-to-real evaluation and failure-recovery protocols
+- Production AI engineering and reliable deployment
+- Applied AI for environmental analytics and sustainability software
+
+---
+
+## Technical stack
+
+**Languages**  
+Python, C++14/17, JavaScript, SQL, MATLAB, Wolfram
+
+**ML/DL**  
+PyTorch, scikit-learn, Hugging Face Transformers, NumPy, SciPy, Matplotlib, SymPy
+
+**Robotics**  
+ROS/ROS2, Gazebo, MuJoCo, Isaac Sim, OpenCV, MoveIt2
+
+**MLOps / Infra**  
+Docker, Git, CI/CD, model/pipeline validation, experiment logging
+
+**Full-Stack**  
+React, Node.js/Express, REST APIs, PostgreSQL, Redis, AWS, Render
+
+---
+
+## Selected work
+
+- **Embodied AI Researcher** — BU Dependable Computing Lab (DCL) & RASTIC  
+  VLM/VLA inference-to-execution pipelines, real Sawyer experiments, perception + planning integration.
+
+- **Founder / Full-Stack Engineer** — GreenMetric.ai  
+  Deployed SaaS platform with hybrid AI + deterministic environmental-impact engine and production MLOps workflows.
+
+- **Graduate Teaching Assistant** — BU College of Engineering (EC574/EC575)  
+  Semiconductor physics/devices recitations, simulation-oriented technical instruction in Python/MATLAB.
+
+---
+
+## Education
+
+- **M.S. in Electrical & Computer Engineering (Systems Robotics)** — Boston University (Starting Sept 2026)
+- **B.A. in Physics & Computer Science (Dual Major)** — Boston University (Dec 2025)
+
+---
+
+## Contact
+
+If you are working on embodied AI, robotics systems, VLM/VLA planning, or production ML platforms, feel free to connect.
