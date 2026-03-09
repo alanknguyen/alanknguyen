@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="paper/figures/banner_qsol_light_new.png" width="100%">
+</p>
+
 <h1 align="center">Nguyen Khoi Nguyen (Alan)</h1>
 
 <p align="center">
