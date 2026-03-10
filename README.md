@@ -26,12 +26,6 @@
 **VLM/VLA Manipulation on Sawyer Hardware**
 Hierarchical action decomposition from language-conditioned policy outputs to parameterized ROS2 action servers. Perception stack: RGB-D point clouds, open-vocabulary segmentation (SAM/GroundingDINO), 6-DoF pose estimation, scene graph construction. Working on a reinforcement-learning paradigm paper with PhD students.
 
-**Quantum States of Light in Cavity QED** *(arXiv submission in progress)*
-Computational study of Schrödinger cat-state formation, entanglement dynamics, photon blockade, and decoherence. 256-point Lindblad parameter sweep, 9 animations, 20+ figures. [Code](https://github.com/alanknguyen/QSOL_CQED)
-
-**Reflection-Mode Intensity Diffraction Tomography** *(BU, 2024)*
-Extended IDT to reflection geometry with mirror-assisted illumination. Derived new optical transfer functions for 3D refractive index reconstruction.
-
 ### Skills
 
 **Robotics & Embodied AI:** VLM/VLA-to-robot execution, language-conditioned manipulation, sim-to-real transfer, perception (RGB-D, open-vocab segmentation, 6-DoF pose), closed-loop TAMP
@@ -91,6 +85,9 @@ Language-conditioned manipulation pipelines on a 7-DoF Sawyer arm. VLM/VLA infer
 
 **Computational Physics + Photonics (Previous)**  
 Intensity diffraction tomography (reflection-IDT with novel transfer function derivations). Fourier optics simulation (angular spectrum method, vectorial diffraction). FDTD photonic device design (Tidy3D: directional couplers, loop mirrors, waveguide analysis). Cavity QED simulations: Jaynes-Cummings dynamics, Wigner function evolution, Lindblad master equation.
+
+*Quantum States of Light in Cavity QED* 
+Computational study of Schrödinger cat-state formation, entanglement dynamics, photon blockade, and decoherence. 256-point Lindblad parameter sweep, 9 animations, 20+ figures. [Code](https://github.com/alanknguyen/QSOL_CQED)
 
 ---
 
