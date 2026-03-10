@@ -113,4 +113,4 @@ Extended IDT to reflection geometry with mirror-assisted illumination. Derived n
 ### Education
 
 **M.S. Electrical & Computer Engineering (Systems Robotics)**, Boston University (starting Sept 2026)  
-**B.S./B.A. Physics & Computer Science (Dual Major)**, Boston University (Dec 2025)
+**Bachelor's in Physics & Computer Science (Dual)**, Boston University (Dec 2025)
