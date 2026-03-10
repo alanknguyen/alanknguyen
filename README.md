@@ -21,13 +21,9 @@
   </a>
 </p>
 
-### Background
-
-Bachelor's in Physics and Computer Science (dual degree) from Boston University. Research background in **computational optical physics**: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity quantum electrodynamics. Coursework and research spanning condensed matter theory, nano-optics, and quantum engineering.
+### What I do:
 
 Now building at the intersection of **physical AI and robotics**: language-conditioned manipulation, VLM/VLA-to-robot execution, and real-time multi-model orchestration for physical task guidance.
-
-### Languages and Tools
 
 ### Skills
 
@@ -75,6 +71,12 @@ Now building at the intersection of **physical AI and robotics**: language-condi
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white">
 </p>
 ---
+
+### Background
+
+Bachelor's in Physics and Computer Science (dual degree) from Boston University. Research background in **computational optical physics**: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity quantum electrodynamics. Coursework and research spanning condensed matter theory, nano-optics, and quantum engineering.
+
+Currently: Moved to Embodied/Physical AI + Systems Robotics!
 
 ### What I Work On
 
