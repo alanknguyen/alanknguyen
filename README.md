@@ -70,7 +70,6 @@ Now building at the intersection of **physical AI and robotics**: language-condi
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white">
 </p>
----
 
 ### Background
 
