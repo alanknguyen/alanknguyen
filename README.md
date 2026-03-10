@@ -66,14 +66,11 @@ Now building at the intersection of **physical AI and robotics**: language-condi
 
 ### What I Work On
 
-**Robotics + Embodied AI**  
+**Robotics + Embodied/Physical AI (Current)**  
 Language-conditioned manipulation pipelines on a 7-DoF Sawyer arm. VLM/VLA inference mapped to hierarchical ROS2 action execution. Perception stack: RGB-D point clouds, open-vocabulary segmentation, 6-DoF pose estimation, scene graph construction. Sim-to-real transfer via Isaac Sim with domain randomization.
 
-**Computational Physics + Photonics**  
+**Computational Physics + Photonics (Previous)**  
 Intensity diffraction tomography (reflection-IDT with novel transfer function derivations). Fourier optics simulation (angular spectrum method, vectorial diffraction). FDTD photonic device design (Tidy3D: directional couplers, loop mirrors, waveguide analysis). Cavity QED simulations: Jaynes-Cummings dynamics, Wigner function evolution, Lindblad master equation.
-
-**Physical AI**  
-Building [Clanq.ai](https://clanq.ai): real-time multi-model orchestration (Claude/GPT-4o/Gemini) for physical task guidance, starting with appliance repair. On-device frame sampling, RAG domain knowledge engine, Thompson sampling model routing.
 
 ---
 
@@ -106,6 +103,5 @@ Extended IDT to reflection geometry with mirror-assisted illumination. Derived n
 ### Currently
 
 - Embodied AI research at BU Dependable Computing Lab (DCL) and RASTIC
-- Building Clanq.ai (targeting YC S26)
 - Teaching Machine Vision (BUAIS CS 185)
 - Co-founded BU AI Society
