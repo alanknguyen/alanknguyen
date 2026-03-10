@@ -26,6 +26,12 @@
 **VLM/VLA Manipulation on Sawyer Hardware**
 Hierarchical action decomposition from language-conditioned policy outputs to parameterized ROS2 action servers. Perception stack: RGB-D point clouds, open-vocabulary segmentation (SAM/GroundingDINO), 6-DoF pose estimation, scene graph construction. Working on a reinforcement-learning paradigm paper with PhD students.
 
+### Background
+
+Bachelor's in Physics and Computer Science (dual degree) from Boston University. Research background in **computational optical physics**: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity quantum electrodynamics. Coursework and research spanning condensed matter theory, nano-optics, and quantum engineering.
+
+Currently: Moved to Embodied/Physical AI + Systems Robotics at the Dependable Computing Lab under Professor Wenchao Li.
+
 ### Skills
 
 **Robotics & Embodied AI:** VLM/VLA-to-robot execution, language-conditioned manipulation, sim-to-real transfer, perception (RGB-D, open-vocab segmentation, 6-DoF pose), closed-loop TAMP
@@ -71,12 +77,6 @@ Hierarchical action decomposition from language-conditioned policy outputs to pa
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white">
 </p>
-
-### Background
-
-Bachelor's in Physics and Computer Science (dual degree) from Boston University. Research background in **computational optical physics**: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity quantum electrodynamics. Coursework and research spanning condensed matter theory, nano-optics, and quantum engineering.
-
-Currently: Moved to Embodied/Physical AI + Systems Robotics!
 
 ### What I Work On
 
