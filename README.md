@@ -5,8 +5,8 @@
 <h1 align="center">Nguyen Khoi Nguyen (Alan)</h1>
 
 <p align="center">
-  <strong>Robotics & Embodied AI Researcher</strong><br>
-  Physics + Computer Science @ Boston University
+  <strong>Physics + Computer Science @ Boston University</strong><br>
+  Computational physics, photonics, embodied AI, robotics
 </p>
 
 <p align="center">
@@ -21,16 +21,6 @@
   </a>
 </p>
 
----
-
-### About
-
-I come from a **computational physics** background (condensed matter, photonics, quantum optics) and have since moved fully into **robotics and embodied AI**. I build systems that connect vision-language models to real robot hardware: language-conditioned manipulation on a 7-DoF Sawyer arm, VLM/VLA inference-to-execution pipelines, perception stacks for closed-loop task and motion planning, and sim-to-real transfer through Isaac Sim.
-
-Currently doing embodied AI research at BU's Dependable Computing Lab (DCL) and RASTIC, teaching Machine Vision (BUAIS CS 185), and co-running the BU AI Society.
-
----
-
 ### What I'm Working On
 
 **VLM/VLA Manipulation on Sawyer Hardware**
@@ -42,35 +32,9 @@ Computational study of Schrödinger cat-state formation, entanglement dynamics, 
 **Reflection-Mode Intensity Diffraction Tomography** *(BU, 2024)*
 Extended IDT to reflection geometry with mirror-assisted illumination. Derived new optical transfer functions for 3D refractive index reconstruction.
 
----
-
-### Selected Repositories
-
-| Repository | Description |
-|-----------|-------------|
-| [QSOL_CQED](https://github.com/alanknguyen/QSOL_CQED) | Computational cavity QED: Wigner function dynamics, entanglement entropy, photon blockade, and decoherence in the Jaynes-Cummings model. QuTiP simulations, REVTeX manuscript. |
-| *More repositories pinned below.* | |
-
----
-
-### Background
-
-Trained in **physics and computer science** (dual degree, BU). Spent several years in computational optical physics: Fourier optics, FDTD photonic device simulation (Tidy3D), cavity QED, and intensity diffraction tomography under Prof. Luca Dal Negro. Coursework and research spanning condensed matter theory, nano-optics, semiconductor device physics, and quantum engineering.
-
-That foundation (signal processing, optimization, physical modeling, numerical methods) now feeds directly into the robotics work: perception is optics, control is dynamics, and sim-to-real is computational physics.
-
----
-
-### Education
-
-**M.S. Electrical & Computer Engineering (Systems Robotics)**, Boston University (starting Sept 2026)
-**B.S./B.A. Physics & Computer Science (Dual Major)**, Boston University (Dec 2025)
-
----
-
 ### Skills
 
-**Robotics & Embodied AI**
+**Robotics & Embodied AI:** VLM/VLA-to-robot execution, language-conditioned manipulation, sim-to-real transfer, perception (RGB-D, open-vocab segmentation, 6-DoF pose), closed-loop TAMP
 
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white">
@@ -85,7 +49,7 @@ That foundation (signal processing, optimization, physical modeling, numerical m
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-**Computational Physics & Photonics**
+**Computational Physics & Photonics:** Fourier optics (ASM, vectorial diffraction), FDTD device simulation, cavity QED (Jaynes-Cummings, Lindblad), intensity diffraction tomography, quantum state engineering
 
 <p>
   <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=flat">
@@ -99,7 +63,7 @@ That foundation (signal processing, optimization, physical modeling, numerical m
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolfram&logoColor=white">
 </p>
 
-**Full-Stack & MLOps** *(via [GreenMetric.ai](https://greenmetric.ai) and other deployed projects)*
+**Full-Stack Engineering & MLOps:** Production SaaS (GreenMetric.ai), hybrid ML/deterministic pipelines, CI/CD, model validation, deployment on Render/AWS
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
@@ -113,3 +77,43 @@ That foundation (signal processing, optimization, physical modeling, numerical m
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white">
 </p>
+
+### Background
+
+Bachelor's in Physics and Computer Science (dual degree) from Boston University. Research background in **computational optical physics**: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity quantum electrodynamics. Coursework and research spanning condensed matter theory, nano-optics, and quantum engineering.
+
+Currently: Moved to Embodied/Physical AI + Systems Robotics!
+
+### What I Work On
+
+**Robotics + Embodied/Physical AI (Current)**  
+Language-conditioned manipulation pipelines on a 7-DoF Sawyer arm. VLM/VLA inference mapped to hierarchical ROS2 action execution. Perception stack: RGB-D point clouds, open-vocabulary segmentation, 6-DoF pose estimation, scene graph construction. Sim-to-real transfer via Isaac Sim with domain randomization.
+
+**Computational Physics + Photonics (Previous)**  
+Intensity diffraction tomography (reflection-IDT with novel transfer function derivations). Fourier optics simulation (angular spectrum method, vectorial diffraction). FDTD photonic device design (Tidy3D: directional couplers, loop mirrors, waveguide analysis). Cavity QED simulations: Jaynes-Cummings dynamics, Wigner function evolution, Lindblad master equation.
+
+---
+
+### Selected Repositories
+
+| Repository | Description |
+|-----------|-------------|
+| [QSOL_CQED](https://github.com/alanknguyen/QSOL_CQED) | Computational cavity QED: Wigner function dynamics, entanglement entropy, and decoherence in the Jaynes-Cummings model. QuTiP simulations, REVTeX manuscript. |
+| *More repositories pinned below.* | |
+
+---
+
+### Research + Publications
+
+**Quantum States of Light in Cavity QED** (2025, arXiv submission in progress)  
+Computational study of Schrodinger cat-state formation, atom-field entanglement dynamics across four field states, and decoherence via the Lindblad master equation. [Code](https://github.com/alanknguyen/QSOL_CQED)
+
+**Reflection-Mode Intensity Diffraction Tomography** (BU, 2024)  
+Extended IDT to reflection geometry with mirror-assisted illumination. Derived new optical transfer functions for 3D refractive index reconstruction.
+
+---
+
+### Education
+
+**M.S. Electrical & Computer Engineering (Systems Robotics)**, Boston University (starting Sept 2026)  
+**B.S./B.A. Physics & Computer Science (Dual Major)**, Boston University (Dec 2025)
