@@ -27,7 +27,7 @@ Now building at the intersection of **physical AI and robotics**: language-condi
 
 ### Skills
 
-**Robotics & Embodied AI** — VLM/VLA-to-robot execution, language-conditioned manipulation, sim-to-real transfer, perception (RGB-D, open-vocab segmentation, 6-DoF pose), closed-loop TAMP
+**Robotics & Embodied AI:** VLM/VLA-to-robot execution, language-conditioned manipulation, sim-to-real transfer, perception (RGB-D, open-vocab segmentation, 6-DoF pose), closed-loop TAMP
 
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white">
@@ -42,7 +42,7 @@ Now building at the intersection of **physical AI and robotics**: language-condi
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 </p>
 
-**Computational Physics & Photonics** — Fourier optics (ASM, vectorial diffraction), FDTD device simulation, cavity QED (Jaynes-Cummings, Lindblad), intensity diffraction tomography, quantum state engineering
+**Computational Physics & Photonics:** Fourier optics (ASM, vectorial diffraction), FDTD device simulation, cavity QED (Jaynes-Cummings, Lindblad), intensity diffraction tomography, quantum state engineering
 
 <p>
   <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=flat">
@@ -56,7 +56,7 @@ Now building at the intersection of **physical AI and robotics**: language-condi
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=flat&logo=wolfram&logoColor=white">
 </p>
 
-**Full-Stack Engineering & MLOps** — Production SaaS (GreenMetric.ai), hybrid ML/deterministic pipelines, CI/CD, model validation, deployment on Render/AWS
+**Full-Stack Engineering & MLOps:** Production SaaS (GreenMetric.ai), hybrid ML/deterministic pipelines, CI/CD, model validation, deployment on Render/AWS
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
