@@ -92,13 +92,11 @@ Computational study of Schrödinger cat-state formation, entanglement dynamics, 
 ---
 
 ### Selected Repositories
-
 | Repository | Description |
 |-----------|-------------|
-| [QSOL_CQED](https://github.com/alanknguyen/QSOL_CQED) | Computational cavity QED: Wigner function dynamics, entanglement entropy, and decoherence in the Jaynes-Cummings model. QuTiP simulations, REVTeX manuscript. |
+| [QSOL_CQED](https://github.com/alanknguyen/QSOL_CQED) | Computational study of quantum states of light in cavity QED systems. Numerical simulations of Wigner function dynamics, vacuum Rabi splitting, photon blockade (g⁽²⁾), and atom-field entanglement entropy in the Jaynes-Cummings model. Includes phase diagrams, parameter sweeps, and decoherence analysis. Built with QuTiP; REVTeX manuscript included. |
+| [OpenGreenMetric](https://github.com/alanknguyen/OpenGreenMetric) | Open-source environmental impact scoring engine behind [GreenMetric.ai](https://greenmetric.ai). Hybrid inference pipeline combining deterministic lifecycle-assessment models with LLM-assisted entity extraction and product classification. Computes structured sustainability scores from URLs, text, and image inputs for EU Green Passport compliance. |
 | *More repositories pinned below.* | |
-
----
 
 ### Research + Publications
 
