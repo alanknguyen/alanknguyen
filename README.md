@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner_github_profile.png" width="100%">
-</p>
-
 <h1 align="center">Nguyen Khoi Nguyen (Alan)</h1>
 
 <p align="center">
