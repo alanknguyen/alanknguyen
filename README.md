@@ -1,50 +1,25 @@
-<h1 align="center">Nguyen Khoi Nguyen (Alan)</h1>
-
-<p align="center">
-  <strong>Physics + CS @ Boston University</strong><br>
-  Robotics, embodied AI, computational photonics
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/nguyendesu">LinkedIn</a> ·
-  <a href="mailto:alankn@bu.edu">Email</a> ·
-  <a href="https://github.com/alanknguyen">GitHub</a>
-</p>
-
----
-
-### Now
-
-Building VLM/VLA manipulation pipelines on a 7-DoF Sawyer at BU's Dependable Computing Lab. Hierarchical action decomposition from language-conditioned policies to ROS2 action servers; perception via RGB-D point clouds, open-vocabulary segmentation, and 6-DoF pose estimation. RL paradigm paper in progress with PhD collaborators.
-
-### Background
-
-Dual bachelor's in Physics and Computer Science from BU. Prior research in computational optical physics: intensity diffraction tomography, Fourier optics, FDTD photonic device simulation, and cavity QED. Recent pivot to embodied AI and systems robotics.
-
 ### Stack
 
-**Robotics & Embodied AI** ROS2, MoveIt2, Isaac Sim, MuJoCo, PyTorch, OpenCV, C++, Python
+**Robotics & Embodied AI**
 
-**Computational Physics & Photonics** QuTiP, Tidy3D (FDTD), NumPy/SciPy, MATLAB, Wolfram
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/MoveIt2-22314E?style=flat&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/MuJoCo-4A4A4A?style=flat">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+</p>
 
-**Full-Stack & MLOps** React, FastAPI, TypeScript, PostgreSQL, Docker, AWS, Render
+**Computational Physics**
 
-### Selected Repositories
-
-| Repository | Description |
-|-----------|-------------|
-| [QSOL_CQED](https://github.com/alanknguyen/QSOL_CQED) | Computational study of quantum states of light in cavity QED. Wigner function dynamics, vacuum Rabi splitting, photon blockade, atom-field entanglement entropy in the Jaynes-Cummings model. QuTiP simulations, REVTeX manuscript. |
-| [OpenGreenMetric](https://github.com/alanknguyen/OpenGreenMetric) | Open-source environmental impact scoring engine behind [GreenMetric.ai](https://greenmetric.ai). Hybrid pipeline combining deterministic LCA models with LLM-assisted entity extraction for EU Green Passport compliance. |
-
-### Publications
-
-**Quantum States of Light in Cavity QED** (2025, arXiv submission in progress)
-Schrödinger cat-state formation, atom-field entanglement dynamics, and Lindblad decoherence. [Code](https://github.com/alanknguyen/QSOL_CQED)
-
-**Reflection-Mode Intensity Diffraction Tomography** (BU, 2024)
-Extended IDT to reflection geometry with mirror-assisted illumination; derived new optical transfer functions for 3D refractive index reconstruction.
-
-### Education
-
-M.S. Electrical & Computer Engineering, Systems Robotics — Boston University (Sept 2026)
-B.A. Physics & B.S. Computer Science (dual) — Boston University (Dec 2025)
+<p>
+  <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=flat">
+  <img src="https://img.shields.io/badge/Tidy3D-4B8BBE?style=flat">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white">
+</p>
