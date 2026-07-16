@@ -5,9 +5,9 @@ Currently at Boston University's Dependable Computing Lab under Dr. Wenchao Li, 
 
 I also ship production vision systems: I built [Crown Barber Studio](https://apps.apple.com/us/app/crown-barber-studio/id6782692009), a 3D head-scanning iOS app with its own real-time vision + graphics pipeline built on ARKit, as Principal Software Engineer.
 
-Before this: BU bachelor's in physics and computer science, with a research background in computational imaging, optics & photonics, and computational condensed matter. Along the way I've been an ML intern at Scale AI, a data science intern at Leuko Labs, taught CS 185 (Machine Vision) at BU, co-founded the BU AI Society, and shipped [GreenMetric.ai](https://greenmetric.ai), a sustainability-scoring SaaS.
+Before this: BU Dual Bachelor's in Physics and Computer Science, with a research background in computational imaging, optics & photonics, and computational condensed matter. Along the way I've been an ML intern at Scale AI, a data science intern at Leuko Labs, co-founded the BU AI Society, and shipped [GreenMetric.ai](https://greenmetric.ai), a sustainability-scoring SaaS.
 
-Always happy to talk robotics perception, 3D reconstruction, computational imaging, or embedded vision.
+Always happy to talk robotics perception, 3D reconstruction, computational imaging, or embedded vision!
 
 ### Stack
 **Robotics & Embodied AI**
