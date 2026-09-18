@@ -1,11 +1,11 @@
 ### About
 I'm a research engineer working at the intersection of robotics perception, 3D computer vision, and embedded systems.
 
-Currently at Boston University's Dependable Computing Lab under Dr. Wenchao Li, building VLM/VLA manipulation pipelines on a 7-DoF Sawyer arm — camera calibration and homography-based localization, multi-view 3D reconstruction, VLM plan-quality benchmarking, and an integrated ROS1/ROS2 + Gazebo simulation stack.
+Currently at Boston University's Dependable Computing Lab advised by Dr. Wenchao Li, building VLM/VLA perception and manipulation pipelines on a 7-DoF industrial arm — camera calibration and homography-based localization, multi-view 3D reconstruction, VLM plan-quality benchmarking, and an integrated ROS1/ROS2 + Gazebo simulation stack.
 
 I also ship production vision systems: I built [Crown Barber Studio](https://apps.apple.com/us/app/crown-barber-studio/id6782692009), a 3D head-scanning iOS app with its own real-time vision + graphics pipeline built on ARKit, as Principal Software Engineer.
 
-Before this: BU Dual Bachelor's in Physics and Computer Science, with a research background in computational imaging, optics & photonics, and computational condensed matter. Along the way I've been an ML intern at Scale AI, a data science intern at Leuko Labs, co-founded the BU AI Society, and shipped [GreenMetric.ai](https://greenmetric.ai), a sustainability-scoring SaaS.
+Before this: BU Dual Degrees in Physics and Computer Science, with a research background in computational imaging, optics & photonics, and condensed matter. Along the way I've been an ML intern at Scale AI, a data science intern at Leuko Labs, and co-founded the BU AI Society.
 
 Always happy to talk robotics perception, 3D reconstruction, computational imaging, or embedded vision!
 
