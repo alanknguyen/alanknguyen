@@ -5,7 +5,7 @@ I'm currently at Boston University, advised by Dr. Wenchao Li of the Dependable 
 
 I also ship production vision systems. I built [Crown Barber Studio](https://apps.apple.com/us/app/crown-barber-studio/id6782692009), a 3D head-scanning iOS app with its own real-time vision and graphics pipeline on ARKit, as Principal Software Engineer.
 
-Before this: BU dual degrees in Physics and Computer Science, with a research background in computational imaging, optics and photonics, and condensed matter. 
+Before this: BU dual degrees in Physics and Computer Science, with a research background in computational imaging, optics and photonics.
 
 Along the way I've been an ML intern at Scale AI, a data science intern at Leuko Labs, and co-founded and serves as the President of the Boston University Artificial Intelligence Society.
 
