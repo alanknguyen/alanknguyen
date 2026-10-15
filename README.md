@@ -11,12 +11,14 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
 
 ### Stack
 
-**Reinforcement Learning & Policy Testing**
+**ML, RL and CUDA**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/Stable--Baselines3-4A4A4A?style=flat" alt="Stable-Baselines3">
   <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat" alt="Gymnasium">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA">
 </p>
 
 **Perception & 3D**
