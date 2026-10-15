@@ -4,9 +4,7 @@ I'm a junior research engineer at Boston University working on robot learning, r
 
 I'm most interested in vision-language models (VLMs), vision-language-action models (VLAs), and how to put them to work in robotics, as well as physics-informed approaches to machine learning and reinforcement learning. My work includes training and evaluating end-to-end driving policies in CARLA and building perception and manipulation pipelines for a 7-DoF industrial arm.
 
-Outside research, I built [Crown Barber Studio](https://apps.apple.com/us/app/crown-barber-studio/id6782692009), a 3D head-scanning iOS app, as Principal Software Engineer, developing its real-time vision and graphics pipeline on ARKit.
-
-I graduated from BU in 2025 with dual degrees in Physics and Computer Science. As an undergraduate, I was lucky to be advised by [Lei Tian](https://www.bu.edu/eng/profile/lei-tian/) in computational imaging and [Luca Dal Negro](https://www.bu.edu/eng/profile/luca-dal-negro/) in nanophotonics. I've also been an ML engineering intern at Scale AI and a data science intern at Leuko, and I co-founded and led the [BU AI Society](https://buaisociety.com).
+I graduated from BU in 2025 with dual degrees in Physics and Computer Science. As an undergraduate, I was lucky to be advised by [Lei Tian](https://www.bu.edu/eng/profile/lei-tian/) in computational imaging and [Luca Dal Negro](https://www.bu.edu/eng/profile/luca-dal-negro/) in nanophotonics. I've also been an ML engineering intern at Scale AI and a data science intern at Leuko, and I co-founded and led the [Boston University AI Society](https://buaisociety.com).
 
 Always happy to talk robot learning, machine perception, computational imaging, or physics!
 
