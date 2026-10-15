@@ -5,7 +5,7 @@ Check out my website for course notes.
 
 My work includes training and evaluating end-to-end driving policies in CARLA and making VLAs more generalizable to many robotics platforms.
 
-I graduated from BU in 2025 with dual degrees in Physics and Computer Science. As an undergraduate, I was lucky to be advised by [Lei Tian](https://www.bu.edu/eng/profile/lei-tian/) in computational imaging and [Luca Dal Negro](https://www.bu.edu/eng/profile/luca-dal-negro/) in nanophotonics. I've also been an ML engineering intern at Scale, and I co-founded and led the [Boston University AI Society](https://buaisociety.com).
+I graduated from BU in 2025 with dual degrees in Physics and Computer Science. As an undergraduate, I was lucky to be advised by [Lei Tian](https://www.bu.edu/eng/profile/lei-tian/) in computational imaging and [Luca Dal Negro](https://www.bu.edu/eng/profile/luca-dal-negro/) in nanophotonics. I've also been an ML engineering intern at [Scale](https://scale.com/), and I co-founded and led the [Boston University AI Society](https://buaisociety.com).
 
 Always happy to talk robot learning, machine perception, vision & imaging, or physics in general!
 
