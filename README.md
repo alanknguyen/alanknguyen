@@ -22,12 +22,16 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
 </p>
 
 **Perception & 3D**
+
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/ARKit-000000?style=flat&logo=apple&logoColor=white" alt="ARKit">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
 </p>
+
 
 **Robotics & Simulation**
 <p>
@@ -42,6 +46,8 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
 <p>
   <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=flat" alt="QuTiP">
   <img src="https://img.shields.io/badge/Tidy3D-4B8BBE?style=flat" alt="Tidy3D">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
 </p>
 
 **Programming**
