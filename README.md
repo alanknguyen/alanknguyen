@@ -1,12 +1,13 @@
 ### About
 
-I'm a junior research engineer at Boston University working on robot learning, robot perception, and machine vision systems. I'm advised by [Wenchao Li](https://sites.bu.edu/depend/people/wenchao-li) in the [Dependable Computing Lab](https://sites.bu.edu/depend/) and co-advised by [Eshed Ohn-Bar](https://www.bu.edu/eng/profile/ohn-bar-eshed/) in the [Human-to-Everything (H2X) Lab](https://eshed1.github.io/).
+I'm a junior research engineer at Boston University working on robot learning, robot perception, and machine vision systems. I'm advised by [Wenchao Li](https://sites.bu.edu/depend/people/wenchao-li) in the [Dependable Computing Lab](https://sites.bu.edu/depend/) and co-advised by [Eshed Ohn-Bar](https://www.bu.edu/eng/profile/ohn-bar-eshed/) in the [Human-to-Everything (H2X) Lab](https://eshed1.github.io/). Please reach out to me via email.
+Check out my website for course notes.
 
-I'm most interested in vision-language models (VLMs), vision-language-action models (VLAs), and how to put them to work in robotics, as well as physics-informed approaches to machine learning and reinforcement learning. My work includes training and evaluating end-to-end driving policies in CARLA and making VLAs more generalizable to many robotics platforms.
+I'm most interested in vision-language models (VLMs), vision-language-action models (VLAs), and how to put them to work in robotics, as well as physics-based approaches to machine learning and reinforcement learning. My work includes training and evaluating end-to-end driving policies in CARLA and making VLAs more generalizable to many robotics platforms.
 
 I graduated from BU in 2025 with dual degrees in Physics and Computer Science. As an undergraduate, I was lucky to be advised by [Lei Tian](https://www.bu.edu/eng/profile/lei-tian/) in computational imaging and [Luca Dal Negro](https://www.bu.edu/eng/profile/luca-dal-negro/) in nanophotonics. I've also been an ML engineering intern at Scale AI and a data science intern at Leuko, and I co-founded and led the [Boston University AI Society](https://buaisociety.com).
 
-Always happy to talk robot learning, machine perception, computational imaging, or physics!
+Always happy to talk robot learning, machine perception, vision & imaging, or physics in general!
 
 ### Stack
 
