@@ -40,14 +40,6 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
   <img src="https://img.shields.io/badge/LIBERO-6750A4?style=flat" alt="LIBERO">
 </p>
 
-**Computational Physics**
-<p>
-  <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=flat" alt="QuTiP">
-  <img src="https://img.shields.io/badge/Tidy3D-4B8BBE?style=flat" alt="Tidy3D">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
-</p>
-
 **Programming**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -58,5 +50,7 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
   <img src="https://img.shields.io/badge/VHDL-543978?style=flat" alt="VHDL">
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat" alt="Assembly">
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy">
 
 </p>
