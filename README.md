@@ -24,9 +24,6 @@ Always happy to talk robot learning, machine perception, vision & imaging, or ph
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/ARKit-000000?style=flat&logo=apple&logoColor=white" alt="ARKit">
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" alt="OpenGL">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white" alt="ROS 2">
   <img src="https://img.shields.io/badge/MuJoCo-00695C?style=flat" alt="MuJoCo">
   <img src="https://img.shields.io/badge/CARLA-1E2A38?style=flat" alt="CARLA">
